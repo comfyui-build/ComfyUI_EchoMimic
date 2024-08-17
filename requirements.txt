@@ -3,3 +3,5 @@ mediapipe
 moviepy
 IPython
 av
+facenet_pytorch
+torch==2.4.0
